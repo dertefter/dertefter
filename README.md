@@ -1,17 +1,22 @@
-<h1 align="center">Hello Everyone! It's Dertefter Labs</h1>
-<h3 align="center">Dev from Siberia ❄️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dertefter&label=Profile%20views&color=0e75b6&style=flat" alt="dertefter" /> </p>
+### Добро пожаловать! 👋 
 
-- 🔭 I’m currently working on [NETI Клиент](https://github.com/dertefter/NETI-Client)
+### 🔧 Технологии и инструменты:
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
-- 🌱 I’m currently learning **Kotlin & Android development**
+### 🚀 Мои проекты:
+- [**WearFiles**](https://github.com/dertefter/WearFiles) — файловый менеджер для WearOS
+- [**NETI-Client**](https://github.com/dertefter/NETI-Client) — клиент личного кабинета студента для НГТУ (НЭТИ)
+- [**Kevin**](https://github.com/dertefter/Kevin) — ИИ помощник для Windows 10/11
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🌐 Соцсети:
+- [Хабр](https://habr.com/ru/users/Dertefter/)
+- [DTF](https://dtf.ru/u/129466-dertefter-labs)
+- [Telegram](https://t.me/otherside_master)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+### 📈 Статистика GitHub:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dertefter&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dertefter&layout=compact&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dertefter&show_icons=true&locale=en" alt="dertefter" /></p>
