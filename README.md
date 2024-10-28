@@ -1,7 +1,7 @@
 
 ### Добро пожаловать! 👋 
 
-### 🔧 Технологии и инструменты:
+### 🔧 Юзаю:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
