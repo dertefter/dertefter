@@ -1,11 +1,6 @@
 
 ### Добро пожаловать! 👋 
 
-### 🔧 Юзаю:
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-
 ### 🚀 Мои проекты:
 - [**NETI Клиент**](https://github.com/dertefter/NETIClient) — Неофициальное приложение с открытым исходным кодом для студентов НГТУ (НЭТИ)
 - [**WearFiles**](https://github.com/dertefter/WearFiles) — файловый менеджер для WearOS
