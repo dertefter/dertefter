@@ -9,7 +9,6 @@
 ### 🚀 Мои проекты:
 - [**NETI Клиент**](https://github.com/dertefter/NETIClient) — Неофициальное приложение с открытым исходным кодом для студентов НГТУ (НЭТИ)
 - [**WearFiles**](https://github.com/dertefter/WearFiles) — файловый менеджер для WearOS
-- [**Kevin**](https://github.com/dertefter/Kevin) — ИИ помощник для Windows 10/11
 
 ### 🌐 Соцсети:
 - [Хабр](https://habr.com/ru/users/Dertefter/)
