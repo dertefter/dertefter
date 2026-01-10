@@ -11,7 +11,3 @@
 - [DTF](https://dtf.ru/u/129466-dertefter-labs)
 - [Telegram](https://t.me/otherside_master)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dertefter&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dertefter&layout=compact&theme=dark)
-
