@@ -4,7 +4,7 @@
 ### Чем сейчас занимаюсь:
 
 - [**WearFiles**](https://github.com/dertefter/WearFiles) — файловый менеджер для WearOS
-- [**NETI Клиент**](https://github.com/dertefter/NETIClient) — Неофициальное приложение для студентов НГТУ (НЭТИ)
+- [**NETI Next**](https://github.com/dertefter/NETIClient) — Неофициальное приложение для студентов НГТУ (НЭТИ)
 
 ### Соцсети:
 - [Хабр](https://habr.com/ru/users/Dertefter/)
