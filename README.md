@@ -9,5 +9,5 @@
 ### Соцсети:
 - [Хабр](https://habr.com/ru/users/Dertefter/)
 - [DTF](https://dtf.ru/u/129466-dertefter-labs)
-- [Telegram](https://t.me/otherside_master)
+- [Telegram](https://t.me/feobeomeow)
 
